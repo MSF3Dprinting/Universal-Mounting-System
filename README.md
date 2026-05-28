@@ -170,7 +170,7 @@ Do not put any text or embossed symbols due to surface cleaning.
 ### Spaulding Classification (IPC)
 
 ```text
-Related links, standards, safety considerations: N/A
+To be added
 ```
 
 
