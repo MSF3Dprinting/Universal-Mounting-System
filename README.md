@@ -181,7 +181,7 @@ It is recommended to keep the silica gel in the bag in case of long term storage
 ### Related links, standards, safety considerations
 
 ```text
-N/A
+Do not put any text or embossed symbols due to surface cleaning.
 ```
 
 ### Spaulding Classification (IPC)
