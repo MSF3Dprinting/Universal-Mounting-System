@@ -4,9 +4,9 @@
 
 | Field | Value |
 |---|---|
-| Internal Ref. | Internal Ref. |
+| Internal Ref. | N/A |
 | Name | Universal Mounting system  |
-| Product stage | Product |
+| Product stage | Product in development |
 
 ## FORM
 
@@ -24,21 +24,14 @@ Category: Medical
 Subcategory: Biomed
 Critical item: Yes
 Dangerous goods: No
-Short description: Universal Mounting System V1 (UMS V1) is set of mutually compatible attachments, hooks, holders and clamps used to mount various devices and accessories on the wall, beds and other objects. The UMS allows easy attachment, removal and changing of the devices. 
+Short description: Universal Mounting System V1 (UMS V1) is set of mutually compatible attachments, hooks, holders and clamps used to mount various devices and accessories on the wall, beds and other objects in the hospital environment. The UMS allows easy attachment, removal, changing of the devices and cleaning. 
 
-```
-
-### Repository link
-
-```text
-Repository link: https://www.printables.com/@3Dprintingforall/collections/1741767 
 ```
 
 ### Dimensions / Use / Solution type
 
 ```text
 Overall dimensions: N/A
-LxWxH: N/A
 Single/Multiple use: Multiple use item
 Permanent/Temporary solution: Context dependent
 ```
@@ -46,7 +39,7 @@ Permanent/Temporary solution: Context dependent
 ### License
 
 ```text
-License: CC BY-SA 4.0
+License: MIT
 ```
 
 ### Readiness
@@ -62,7 +55,7 @@ Risk level: 3
 ### Justification of using 3D printed item
 
 ```text
-In low-resource hospital settings, limited access to standard accessories makes it difficult to properly arrange medical devices, resulting in equipment damage decrease of lifespan, improper use and IPC issues. 3D printing enables local production of custom solutions enabling users to safely mount the equipment in a suitable position.
+In low-resource hospital settings, limited access to standard accessories makes it difficult to properly arrange and attach medical devices, resulting in equipment damage decrease of lifespan, improper use and IPC issues. 3D printing enables local production of custom solutions enabling users to safely mount the equipment in a suitable position and location.
 ```
 
 ### Approval required by
@@ -78,16 +71,17 @@ Biomed advisor, IPC advisor
 ```text
 Primary compatibility:
 Back parts:
-Double hook: BED, HOSPITAL, manual, with back rest (https://msf.oodin.sh/cat/product/12944) - diameter of the round horizontal tube: 32mm , Trolley - diameter of the round horizontal tube: 19mm 
-Hook mount long: Diameter of round horizontal tube: 25mm
-Wall mount with safety lock: Any wall surface
+- Double hook extended: Hospital bed with back rest- diameter of the round horizontal tube: 32mm , Trolley - diameter of the round horizontal tube: 19mm 
+- Single Hook: Diameter of round horizontal tube: 25mm
+- Wall mount with safety lock: Any wall surface
 
 
 Front parts:
-Humidifier bottle cup: 
-Pulse oximeter hodler:
-Safery box hook: 
-Ultrasound transducer clamp:
+- Humidifier bottle holder 49mm: Bottle diameter 49mm
+- Humidifier bottle holder 56mm: Bottle diameter 56mm
+- Pulse oximeter hodler: Massimo pulse oximeter handheld
+- Ultrasound transducer holder: Abdominal transducer
+:
 
 Compatible accessories:
 Back parts:
@@ -99,7 +93,7 @@ Wall mount with safety lock - M5 bolts or screws with diameter 4-5mm
 
 #### Material and color
 
-- PETG White, Natural or Light Color so it is clearly visible if the item needs cleaning.
+- PETG White, Natural or Light Color so it is clearly visible if the item needs cleaning or has any surface imperfections.
 
 #### List of other materials
 
@@ -112,13 +106,14 @@ Wall mount with safety lock - M5 bolts or screws with diameter 4-5mm
 #### Slicer settings
 
 - General settings: 0.2mm layer height, 3-5 perimeters for increased strength, no supports
-- Hooks, back part: brim is recommended for better stability and adhesion during printing V2 has inbuilt brim and support)
+- Hooks, back part: brim is recommended for better stability and adhesion during printing
 
 
 #### Post processing instructions
 
 - Remove the brim if printed with brim
 - Clean the surface from stringing and other imperfections
+- Use deburring tool to clean the sharp edges
 
 #### Assembly instructions
 
@@ -143,18 +138,7 @@ Wall mount with safety lock - M5 bolts or screws with diameter 4-5mm
 Universal Mounting System V1 (UMS V1) is set of mutually compatible attachments, hooks, holders and clamps used to mount various devices and accessories on the wall, beds and other objects. The UMS allows easy attachment, removal and changing of the devices. Each holder consist of the back part and front part. Back part is attached either to the bed, pole or wall, while the front part slides into the back part and holds the device it is designed for. The front and back parts are always mutually compatible. So it can be used interchageably. 
 
 ```
-#### Back parts
-- Wall attachment with safety latch
-- Single hook diameter 25mm
-- Double hook diameters 19mm and 32mm
-- Empty holder
 
-#### Front Parts
-- Humidifier bottle holder diameter of the bottle 49mm
-- Humidifier bottle holder diameter of the bottle 56mm
-- Transducer clamp
-- Pulse Oximeter holder
-- Safety box hook
 
 
 ### Additional notes
@@ -166,7 +150,7 @@ N/A
 ### Cleaning and disinfection / sterilization procedures
 
 ```text
-Use Surfanios, Bleach 1:10 or Ethanol 70% to clean the surface, follow IPC guidelines.
+Use Surfanios, Bleach 1:10 or Ethanol 70% to clean the surface, follow relevant IPC guidelines.
 Do not use autoclave.
 ```
 
@@ -175,7 +159,6 @@ Do not use autoclave.
 ```text
 After production pack in a sealable zip lock bags.
 Store in room temperature, do not expose to direct sunlight or humidity.
-It is recommended to keep the silica gel in the bag in case of long term storage (> 3 months)
 ```
 
 ### Related links, standards, safety considerations
