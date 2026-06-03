@@ -12,7 +12,7 @@
 
 ### Product picture
 
-[Product picture](img/image.jpg)
+![Product picture](img/image.jpg)
 
 ### Version / Category / Subcategory / Critical item / Dangerous goods / Short description
 
