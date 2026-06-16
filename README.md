@@ -72,6 +72,7 @@ Back parts:
 - Double hook extended: Hospital bed with back rest- diameter of the round horizontal tube: 32mm , Trolley - diameter of the round horizontal tube: 19mm 
 - Single Hook: Diameter of round horizontal tube: 25mm
 - Wall mount with safety lock: Any wall surface
+- Hook with support - used for the hospital bed with bed rest attached using zip tie for more stable position: 32mm diameter of round horizontal tube
 
 
 Front parts:
@@ -84,10 +85,16 @@ Front parts:
 Compatible accessories:
 Back parts:
 Wall mount with safety lock - M5 bolts or screws with diameter 4-5mm
+Hook with support - 6mm zip tie
 ```
 
 
 ### Manufacturing Instructions
+
+#### 3D printing optimization
+![Bottom edge is chamfered](img/chamfer_3dp.png)
+![Horizontally printed holes are optimized for 3D printing](img/hole_3dp.png)
+![In-built supports are included](img/support_3dp.png)
 
 #### Material and color
 
@@ -176,14 +183,7 @@ To be added
 
 ### Attachments
 
-```text
-Technical drawings:
-
-Photos:
-
-Other:
-
-```
+![Humidifier holder using hook with support attached to hospital bed](img/hook_with_support.jpg)
 
 | Role | Name | Date |
 |---|---|---|
