@@ -92,12 +92,13 @@ Hook with support - 6mm zip tie
 ### Manufacturing Instructions
 
 #### 3D printing optimization
+##### Bottom edges are chamfered
 ![Bottom edge is chamfered](img/chamfer_3dp.png)
-Bottom edges are chamfered
+##### Horizontally prited holes are optimized for 3D printing
 ![Horizontally printed holes are optimized for 3D printing](img/hole_3dp.png)
-Horizontally prited holes are optimized for 3D printing
+##### In-built supports are included where needed
 ![In-built supports are included](img/support_3dp.png)
-In-built supports are included where needed
+
 
 #### Material and color
 
