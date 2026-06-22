@@ -12,63 +12,56 @@
 
 ### Product picture
 
-![Product picture](img/image.jpg)
+![Humidifier holder using hook with support attached to hospital bed](img/hook_with_support.jpg)
 
 ### Version / Category / Subcategory / Critical item / Dangerous goods / Short description
 
-```text
-Version: 1.0
-Category: Medical
-Subcategory: Biomed
-Critical item: Yes
-Dangerous goods: No
-Short description: Universal Mounting System V1 (UMS V1) is set of mutually compatible attachments, hooks, holders and clamps used to mount various devices and accessories on the wall, beds and other objects in the hospital environment. The UMS allows easy attachment, removal, changing of the devices and cleaning. 
+- Version: 1.0
+- Category: Medical
+- Subcategory: Biomed
+- Critical item: Yes
+- Dangerous goods: No
+- Short description: Universal Mounting System V1 (UMS V1) is set of mutually compatible attachments, hooks, holders and clamps used to mount various devices and accessories on the wall, beds and other objects in the hospital environment. The UMS allows easy attachment, removal, changing of the devices and cleaning. 
 
-```
 
 ### Dimensions / Use / Solution type
 
-```text
-Overall dimensions: N/A
-Single/Multiple use: Multiple use item
-Permanent/Temporary solution: Context dependent
-```
+- Overall dimensions: N/A
+- Single/Multiple use: Multiple use item
+- Permanent/Temporary solution: Context dependent
 
 ### License
 
-```text
-License: MIT
-```
+- License: MIT
+
 
 ### Readiness
 
-```text
-Field readiness: 4
-Maker readiness: 5
-User readiness: 4
-Technology readiness: 4
-Risk level: 3
-```
+- Field readiness: 4
+- Maker readiness: 5
+- User readiness: 4
+- Technology readiness: 4
+- Risk level: 3
+
 
 ### Justification of using 3D printed item
 
-```text
 In low-resource hospital settings, limited access to standard accessories makes it difficult to properly arrange and attach medical devices, resulting in equipment damage decrease of lifespan, improper use and IPC issues. 3D printing enables local production of custom solutions enabling users to safely mount the equipment in a suitable position and location.
-```
+
 
 ### Approval required by
 
-```text
-Biomed advisor, IPC advisor
-```
+- Biomed advisor, IPC advisor
 
 ## FIT
 
 ### Compatibility
 
-```text
-Primary compatibility:
+
+#### Primary compatibility:
+
 Back parts:
+
 - Double hook extended: Hospital bed with back rest- diameter of the round horizontal tube: 32mm , Trolley - diameter of the round horizontal tube: 19mm 
 - Single Hook: Diameter of round horizontal tube: 25mm
 - Wall mount with safety lock: Any wall surface
@@ -76,17 +69,18 @@ Back parts:
 
 
 Front parts:
+
 - Humidifier bottle holder 49mm: Bottle diameter 49mm
 - Humidifier bottle holder 56mm: Bottle diameter 56mm
 - Pulse oximeter hodler: Massimo pulse oximeter handheld
 - Ultrasound transducer holder: Abdominal transducer
-:
 
-Compatible accessories:
+
+#### Compatible accessories:
+
 Back parts:
-Wall mount with safety lock - M5 bolts or screws with diameter 4-5mm
-Hook with support - 6mm zip tie
-```
+- Wall mount with safety lock - M5 bolts or screws with diameter 4-5mm
+- Hook with support - 6mm zip tie
 
 
 ### Manufacturing Instructions
@@ -131,7 +125,6 @@ Hook with support - 6mm zip tie
 
 #### QC procedures
 
-- QC procedures:
 - Visual inspection: Ensure the surface does not have printing artifacts, strining and misaligned layer lines. Surface should be smooth.
 - Dimensional validation: Check if the back and front parts fit into each other before installation. Ensure that the respective device (e.g. humidifier bottle) fits into the holder before installation. The device should always hold in a stable manner and should be easily removable.
 - Tolerance inspection: The back and front part should slide easily but hold firmly.
@@ -143,51 +136,39 @@ Hook with support - 6mm zip tie
 
 ### Detailed description of the component/product/workflow and its use
 
-```text
 Universal Mounting System V1 (UMS V1) is set of mutually compatible attachments, hooks, holders and clamps used to mount various devices and accessories on the wall, beds and other objects. The UMS allows easy attachment, removal and changing of the devices. Each holder consist of the back part and front part. Back part is attached either to the bed, pole or wall, while the front part slides into the back part and holds the device it is designed for. The front and back parts are always mutually compatible. So it can be used interchageably. 
-
-```
-
 
 
 ### Additional notes
 
-```text
-N/A
-```
+- N/A
+
 
 ### Cleaning and disinfection / sterilization procedures
 
-```text
-Use Surfanios, Bleach 1:10 or Ethanol 70% to clean the surface, follow relevant IPC guidelines.
-Do not use autoclave.
-```
+- Use Surfanios, Bleach 1:10 or Ethanol 70% to clean the surface, follow relevant IPC guidelines.
+- Do not use autoclave.
+
 
 ### Packaging and storing instructions
 
-```text
-After production pack in a sealable zip lock bags.
-Store in room temperature, do not expose to direct sunlight or humidity.
-```
+- After production pack in a sealable zip lock bags.
+- Store in room temperature, do not expose to direct sunlight or humidity.
 
 ### Related links, standards, safety considerations
 
-```text
-Do not put any text or embossed symbols due to surface cleaning.
-```
+- Do not put any text or embossed symbols due to surface cleaning.
 
 ### Spaulding Classification (IPC)
 
-```text
-To be added
-```
+- To be added
 
 
 ## ATTACHMENTS
 
-### Attachments
+- N/A
 
-![Humidifier holder using hook with support attached to hospital bed](img/hook_with_support.jpg)
+
 
 | Role | Name | Date |
 |---|---|---|
