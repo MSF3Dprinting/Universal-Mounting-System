@@ -66,6 +66,7 @@ Back parts:
 - Single Hook: Diameter of round horizontal tube: 25mm
 - Wall mount with safety lock: Any wall surface
 - Hook with support - used for the hospital bed with bed rest attached using zip tie for more stable position: 32mm diameter of round horizontal tube
+- Vertical pole attachment for pole diameter 20 and 25mm
 
 
 Front parts:
@@ -80,7 +81,7 @@ Front parts:
 
 Back parts:
 - Wall mount with safety lock - M5 bolts or screws with diameter 4-5mm
-- Hook with support - 6mm zip tie
+- Hook with support, vertical pole attacments- 5mm zip tie
 
 
 ### Manufacturing Instructions
